@@ -32,7 +32,7 @@ To use this project, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/stock-price-prediction.git
+git clone https://github.com/abhishekabhiraj123/stock_price_prediction.git
 Navigate to the project directory:
 bash
 Copy code
